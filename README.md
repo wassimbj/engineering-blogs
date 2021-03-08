@@ -1,5 +1,5 @@
 # websites-to-develop-ur-knowledge
-websites i go to daily to develop my knowledge as a software developer  
+websites i visit to develop my knowledge as a software developer  
 <br />
 **they are not ordered in any way** they are all great resources
 
