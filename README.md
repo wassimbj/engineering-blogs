@@ -13,3 +13,4 @@ websites i go to daily to develop my knowledge as a software developer
 * [Toptal blog](https://www.toptal.com/developers/blog)
 * [Husseinnasser backend developer roadmap](https://backend.husseinnasser.com)
 * [Better Programming](https://betterprogramming.pub)
+* [Awesome scalability](http://awesome-scalability.com)
