@@ -13,7 +13,7 @@ websites i go to daily to develop my knowledge as a software developer
 * [Uber engineering blog](https://eng.uber.com)
 * [Twitter engineering blog](https://blog.twitter.com/engineering/en_us.html)
 * [Toptal blog](https://www.toptal.com/developers/blog)
-* [Husseinnasser backend developer roadmap](https://backend.husseinnasser.com)
+* [Husseinnasser backend engineer playlists](https://backend.husseinnasser.com)
 * [Better Programming](https://betterprogramming.pub)
 * [Awesome scalability](http://awesome-scalability.com)
 * [Learn anything you can imagine](https://www.tutorialspoint.com/tutorialslibrary.htm)
