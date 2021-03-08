@@ -2,7 +2,7 @@
 websites i go to daily to develop my knowledge as a software developer
 
 * [Software engineering daily](https://softwareengineeringdaily.com)
-* [Eloquent javascript](https://eloquentjavascript.net/11_async.html)
+* [Eloquent javascript](https://eloquentjavascript.net/)
 * [Airbnb engineering blog](https://medium.com/airbnb-engineering)
 * [Discord engineering blog](https://blog.discord.com/tagged/engineering)
 * [Facebook engineering blog](https://engineering.fb.com)
