@@ -1,7 +1,7 @@
 # websites-to-develop-ur-knowledge
 websites i go to daily to develop my knowledge as a software developer  
 <br />
-**they are not in order** they are all great resources
+**they are not ordered in any way** they are all great resources
 
 * [Software engineering daily](https://softwareengineeringdaily.com)
 * [Eloquent javascript](https://eloquentjavascript.net/)
