@@ -16,4 +16,5 @@ websites i visit to develop my knowledge as a software developer
 * [Hussein Nasser's backend engineer playlists](https://backend.husseinnasser.com)
 * [Better Programming](https://betterprogramming.pub)
 * [Awesome scalability](http://awesome-scalability.com)
+* [tsh blog](https://tsh.io/blog/)
 * [Learn anything you can imagine](https://www.tutorialspoint.com/tutorialslibrary.htm)
