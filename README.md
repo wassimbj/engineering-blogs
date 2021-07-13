@@ -19,3 +19,4 @@ websites i visit to develop my knowledge as a software developer
 * **[tsh blog](https://tsh.io/blog/)**
 * **[infoq](https://www.infoq.com)**
 * **[Learn anything you can imagine](https://www.tutorialspoint.com/tutorialslibrary.htm)**
+* **[High Scalability](http://highscalability.com)**
