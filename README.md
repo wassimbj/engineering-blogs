@@ -31,4 +31,6 @@
 * **[How We've Scaled Dropbox
 ](https://www.youtube.com/watch?v=PE4gwstWhmc&t=2106s)** **Great Talk, you should watch it**
 
+* **[Scaling Pinterest](https://www.youtube.com/watch?v=GW2cnp2tdh8&list=WL&index=5&t=28s)**
+
 * **[Hussein Nasser's backend engineer playlists](https://www.husseinnasser.com/p/software-engineering-videos.html)**
