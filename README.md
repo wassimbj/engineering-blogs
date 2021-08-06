@@ -1,4 +1,4 @@
-# Engineering blogs and articles 
+# Engineering blogs, articles and videos
 
 
 
@@ -14,6 +14,7 @@
 * **[Paypal engineering blog](https://medium.com/paypal-engineering)**
 * **[Netflix engineering blog](https://netflixtechblog.com)**
 * **[Uber engineering blog](https://eng.uber.com)**
+* **[Dropbox engineering blog](https://dropbox.tech)**
 * **[Twitter engineering blog](https://blog.twitter.com/engineering/en_us.html)**
 * **[Toptal blog](https://www.toptal.com/developers/blog)**
 * **[Hussein Nasser's backend engineer playlists](https://www.husseinnasser.com/p/software-engineering-videos.html)**
