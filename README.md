@@ -6,6 +6,8 @@
 
 ***Note: they are not ordered in any way***
 
+
+## Blogs and Articles
 * **[Software engineering daily](https://softwareengineeringdaily.com)**
 * **[Eloquent javascript](https://eloquentjavascript.net/)**
 * **[Airbnb engineering blog](https://medium.com/airbnb-engineering)**
@@ -17,10 +19,16 @@
 * **[Dropbox engineering blog](https://dropbox.tech)**
 * **[Twitter engineering blog](https://blog.twitter.com/engineering/en_us.html)**
 * **[Toptal blog](https://www.toptal.com/developers/blog)**
-* **[Hussein Nasser's backend engineer playlists](https://www.husseinnasser.com/p/software-engineering-videos.html)**
 * **[Better Programming](https://betterprogramming.pub)**
 * **[Awesome scalability](http://awesome-scalability.com)**
 * **[tsh blog](https://tsh.io/blog/)**
 * **[InfoQ: Software Development News, Trends & Best Practices](https://www.infoq.com)**
 * **[Learn anything you can imagine](https://www.tutorialspoint.com/tutorialslibrary.htm)**
 * **[High Scalability](http://highscalability.com)**
+
+## Videos
+
+* **[How We've Scaled Dropbox
+](https://www.youtube.com/watch?v=PE4gwstWhmc&t=2106s)** **Great Talk, you should watch it**
+
+* **[Hussein Nasser's backend engineer playlists](https://www.husseinnasser.com/p/software-engineering-videos.html)**
