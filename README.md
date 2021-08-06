@@ -20,6 +20,6 @@
 * **[Better Programming](https://betterprogramming.pub)**
 * **[Awesome scalability](http://awesome-scalability.com)**
 * **[tsh blog](https://tsh.io/blog/)**
-* **[infoq](https://www.infoq.com)**
+* **[InfoQ: Software Development News, Trends & Best Practices](https://www.infoq.com)**
 * **[Learn anything you can imagine](https://www.tutorialspoint.com/tutorialslibrary.htm)**
 * **[High Scalability](http://highscalability.com)**
