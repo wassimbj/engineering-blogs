@@ -18,6 +18,8 @@
 
 * **[Facebook engineering blog](https://engineering.fb.com)**
 
+* **[Instagram engineering blog](https://instagram-engineering.com)**
+
 * **[Paypal engineering blog](https://medium.com/paypal-engineering)**
 
 * **[Netflix engineering blog](https://netflixtechblog.com)**
