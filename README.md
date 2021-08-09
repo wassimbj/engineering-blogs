@@ -36,7 +36,7 @@
 
 * **[Awesome scalability](http://awesome-scalability.com)**
 
-* **[tsh blog](https://tsh.io/blog/)**
+* **[The Software House (tsh) blog](https://tsh.io/blog/)**
 
 * **[InfoQ: Software Development News, Trends & Best Practices](https://www.infoq.com)**
 
