@@ -7,7 +7,7 @@
 ***Note: they are not ordered in any way***
 
 
-## Blogs and Articles
+## Websites
 * **[Software engineering daily](https://softwareengineeringdaily.com)**
 
 * **[Eloquent javascript](https://eloquentjavascript.net/)**
