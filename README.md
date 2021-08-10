@@ -7,7 +7,7 @@
 ***Note: they are not ordered in any way***
 
 
-## Websites
+## Blogs and Articles
 * **[Software engineering daily](https://softwareengineeringdaily.com)**
 
 * **[Eloquent javascript](https://eloquentjavascript.net/)**
@@ -55,3 +55,11 @@
 ](https://www.youtube.com/watch?v=dkhOZOmV7Fo)** ***(Simple and nice short video)***
 
 * **[Hussein Nasser's backend engineer playlists](https://www.husseinnasser.com/p/software-engineering-videos.html)**
+
+
+## Tools
+
+* **[whimsical](https://whimsical.com)**
+  *Best tool for everything, flowsharts for desinging a system, sticky notes and more...*
+  
+ 
