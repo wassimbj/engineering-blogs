@@ -46,6 +46,7 @@
 
 * **[Great article about serverless](https://martinfowler.com/articles/serverless.html)**
 
+* **[AWS in plain english](https://aws.plainenglish.io)**
 
 ## Videos
 
