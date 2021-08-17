@@ -44,6 +44,9 @@
 
 * **[High Scalability](http://highscalability.com)**
 
+* **[Great article about serverless](https://martinfowler.com/articles/serverless.html)**
+
+
 ## Videos
 
 * **[How We've Scaled Dropbox
