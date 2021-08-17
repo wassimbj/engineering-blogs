@@ -60,7 +60,7 @@
 * **[Hussein Nasser's backend engineer playlists](https://www.husseinnasser.com/p/software-engineering-videos.html)**
 
 
-## Productivity Tools (Free)
+## Tools (Free)
 
 * **[whimsical](https://whimsical.com)**
   *Best tool for everything, flowsharts for desinging a system, sticky notes and more...*
