@@ -60,6 +60,9 @@
 
 * **[Hussein Nasser's backend engineer playlists](https://www.husseinnasser.com/p/software-engineering-videos.html)**
 
+## Design
+
+* **[Website Inspiration](https://onepagelove.com)**
 
 ## Tools (Free)
 
