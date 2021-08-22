@@ -8,9 +8,7 @@
 
 
 ## Blogs and Articles
-* **[Software engineering daily](https://softwareengineeringdaily.com)**
-
-* **[Eloquent javascript](https://eloquentjavascript.net/)**
+* **[Papers from the computer science community](https://github.com/papers-we-love/papers-we-love)**
 
 * **[Airbnb engineering blog](https://medium.com/airbnb-engineering)**
 
@@ -39,6 +37,10 @@
 * **[The Software House (tsh) blog](https://tsh.io/blog/)**
 
 * **[InfoQ: Software Development News, Trends & Best Practices](https://www.infoq.com)**
+
+* **[Software engineering daily](https://softwareengineeringdaily.com)**
+
+* **[Eloquent javascript](https://eloquentjavascript.net/)**
 
 * **[Learn anything you can imagine](https://www.tutorialspoint.com/tutorialslibrary.htm)**
 
