@@ -64,6 +64,10 @@
 
 * **[Hussein Nasser's backend engineer playlists](https://www.husseinnasser.com/p/software-engineering-videos.html)**
 
+## Security
+
+* **[OWASP Top 10 Web Application Security Risks](https://owasp.org/www-project-top-ten/)*
+
 ## Design
 
 * **[Website Inspiration](https://onepagelove.com)**
