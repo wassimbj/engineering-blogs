@@ -66,7 +66,7 @@
 
 ## Security
 
-* **[OWASP Top 10 Web Application Security Risks](https://owasp.org/www-project-top-ten/)*
+* **[OWASP Top 10 Web Application Security Risks](https://owasp.org/www-project-top-ten/)**
 
 ## Design
 
