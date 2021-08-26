@@ -52,6 +52,8 @@
 
 * **[AWS in plain english](https://aws.plainenglish.io)**
 
+* **[High Performance Browser Networking](https://hpbn.co)**
+
 ## Videos
 
 * **[How We've Scaled Dropbox
