@@ -70,7 +70,7 @@
 
 ## Security
 
-* **[OWASP Top 10 Web Application Security Risks](https://owasp.org/www-project-top-ten/)**
+* **[OWASP cheat sheet](https://cheatsheetseries.owasp.org)**
 
 ## Design
 
