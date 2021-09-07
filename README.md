@@ -58,7 +58,6 @@
 
 * **[Papers from the computer science community](https://github.com/papers-we-love/papers-we-love)**
 
-
 ## Videos
 
 * **[How We've Scaled Dropbox
@@ -73,7 +72,12 @@
 
 ## Security
 
-* **[OWASP cheat sheet](https://cheatsheetseries.owasp.org)**
+* **[OWASP collection on application security topics](https://cheatsheetseries.owasp.org/cheatsheets/AJAX_Security_Cheat_Sheet.html)**
+
+## Cheat-sheets <sub><sup>no body knows eveything, right ?</sup></sub>
+* **[Docker Cheat-sheet](https://dockerlabs.collabnix.com/docker/cheatsheet/)**
+
+* **[Awesome cheat-sheets](https://github.com/LeCoupa/awesome-cheatsheets)**
 
 ## Design
 
