@@ -1,14 +1,11 @@
-# Engineering blogs, articles and videos
+# <p align="center">Engineering blogs, articles, videos and tools</p>
 
 
 
 <br />
 
-***Note: they are not ordered in any way***
 
-
-## Blogs and Articles
-* **[Papers from the computer science community](https://github.com/papers-we-love/papers-we-love)**
+## Blogs
 
 * **[Airbnb engineering blog](https://medium.com/airbnb-engineering)**
 
@@ -50,11 +47,17 @@
 
 * **[High Scalability](http://highscalability.com)**
 
-* **[Great article about serverless](https://martinfowler.com/articles/serverless.html)**
-
 * **[AWS in plain english](https://aws.plainenglish.io)**
 
+
+## Articles & Papers
+
 * **[High Performance Browser Networking](https://hpbn.co)**
+
+* **[Great article about serverless](https://martinfowler.com/articles/serverless.html)**
+
+* **[Papers from the computer science community](https://github.com/papers-we-love/papers-we-love)**
+
 
 ## Videos
 
