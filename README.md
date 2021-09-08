@@ -79,6 +79,8 @@
 
 * **[Awesome cheat-sheets](https://github.com/LeCoupa/awesome-cheatsheets)**
 
+* **[Bash](https://github.com/Idnan/bash-guide)**
+
 ## Design
 
 * **[Website Inspiration](https://onepagelove.com)**
