@@ -65,6 +65,8 @@
 
 * **[Scaling Pinterest](https://www.youtube.com/watch?v=GW2cnp2tdh8)**
 
+* **[Scaling Pinterest (Better version)](https://www.youtube.com/watch?v=jQNCuD_hxdQ)**
+
 * **[Scaling Databases - Web Development
 ](https://www.youtube.com/watch?v=dkhOZOmV7Fo)** ***(Simple and nice short video)***
 
