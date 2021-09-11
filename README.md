@@ -63,7 +63,7 @@
 * **[Introduction to ZooKeeper](https://www.slideshare.net/mumrah/introduction-to-zookeeper-trihug-may-22-2012)**
 
 ## System Design
-* **[System Design Interview](https://github.com/checkcheckzz/system-design-interview)**
+* **[System Design Interview](https://github.com/checkcheckzz/system-design-interview)** (Very important one)
 
 ## Videos
 
@@ -96,7 +96,7 @@
 
 ## Tools (Free)
 
-* **[whimsical](https://whimsical.com)**
+* **[Whimsical](https://whimsical.com)**
   *Best tool for everything, flowsharts for desinging a system, sticky notes and more...*
   
  
