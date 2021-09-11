@@ -62,11 +62,11 @@
 
 * **[Introduction to ZooKeeper](https://www.slideshare.net/mumrah/introduction-to-zookeeper-trihug-may-22-2012)**
 
-* **[Technical keyswords explained](https://gist.github.com/vasanthk/485d1c25737e8e72759f)** ***(important)***
 
 ## System Design
 * **[System Design Interview](https://github.com/checkcheckzz/system-design-interview)** ***(Very important one)***
 
+* **[Technical keyswords explained](https://gist.github.com/vasanthk/485d1c25737e8e72759f)** ***(important)***
 
 ## Videos
 
