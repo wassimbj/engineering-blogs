@@ -58,7 +58,12 @@
 
 * **[Papers from the computer science community](https://github.com/papers-we-love/papers-we-love)**
 
-* **[Introduction and Overview of Apache Kafka, TriHUG](https://www.slideshare.net/mumrah/kafka-talk-tri-hug)**
+* **[Introduction and Overview of Apache Kafka](https://www.slideshare.net/mumrah/kafka-talk-tri-hug)**
+
+* **[Introduction to ZooKeeper](https://www.slideshare.net/mumrah/introduction-to-zookeeper-trihug-may-22-2012)**
+
+## Github Repos
+* **[System Design Interview](https://github.com/checkcheckzz/system-design-interview)**
 
 ## Videos
 
