@@ -62,7 +62,7 @@
 
 * **[Introduction to ZooKeeper](https://www.slideshare.net/mumrah/introduction-to-zookeeper-trihug-may-22-2012)**
 
-## Github Repos
+## System Design
 * **[System Design Interview](https://github.com/checkcheckzz/system-design-interview)**
 
 ## Videos
