@@ -58,6 +58,8 @@
 
 * **[Papers from the computer science community](https://github.com/papers-we-love/papers-we-love)**
 
+* **[Introduction and Overview of Apache Kafka, TriHUG](https://www.slideshare.net/mumrah/kafka-talk-tri-hug)**
+
 ## Videos
 
 * **[How We've Scaled Dropbox
