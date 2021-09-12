@@ -83,6 +83,9 @@
 
 * **[Hussein Nasser's backend engineer playlists](https://www.husseinnasser.com/p/software-engineering-videos.html)**
 
+* **[Scalability (Harvard Web Development) By David Malan](https://www.youtube.com/watch?v=-W9F__D3oY4&list=PLifX7FLW45Ncn-YnaBPSsVz2HYsW8mfAX)**
+
+
 ## Security
 
 * **[OWASP collection on application security topics](https://cheatsheetseries.owasp.org/cheatsheets/AJAX_Security_Cheat_Sheet.html)**
