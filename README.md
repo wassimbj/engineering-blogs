@@ -62,6 +62,7 @@
 
 * **[Introduction to ZooKeeper](https://www.slideshare.net/mumrah/introduction-to-zookeeper-trihug-may-22-2012)**
 
+* **[Scalability for Dummies](https://www.lecloud.net/tagged/scalability)**
 
 ## System Design
 * **[System Design Interview](https://github.com/checkcheckzz/system-design-interview)** ***(Very important one)***
