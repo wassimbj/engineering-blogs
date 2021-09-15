@@ -106,4 +106,6 @@
 * **[Whimsical](https://whimsical.com)**
   *Best tool for everything, flowsharts for desinging a system, sticky notes and more...*
   
+* **[Whimsical](https://excalidraw.com)** *whiteboard tool that lets you easily sketch diagrams*
+  
  
