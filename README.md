@@ -49,6 +49,7 @@
 
 * **[AWS in plain english](https://aws.plainenglish.io)**
 
+* **[Great Network programming notes](http://networkprogrammingnotes.blogspot.com)**
 
 ## Articles & Papers
 
