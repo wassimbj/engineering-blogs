@@ -91,6 +91,9 @@
 
 * **[OWASP collection on application security topics](https://cheatsheetseries.owasp.org/cheatsheets/AJAX_Security_Cheat_Sheet.html)**
 
+* **[XS-Leaks WIKI](https://xsleaks.dev)**
+
+
 ## Cheat-sheets <sub><sup>no body knows eveything, right ?</sup></sub>
 * **[Docker Cheat-sheet](https://dockerlabs.collabnix.com/docker/cheatsheet/)**
 
