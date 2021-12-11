@@ -51,6 +51,8 @@
 
 * **[Great Network programming notes](http://networkprogrammingnotes.blogspot.com)**
 
+* **[Nick Craver Blog](https://nickcraver.com/blog/archive/)**
+
 ## Articles & Papers
 
 * **[High Performance Browser Networking](https://hpbn.co)**
