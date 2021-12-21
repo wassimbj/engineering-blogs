@@ -21,6 +21,8 @@
 
 * **[Paypal engineering blog](https://medium.com/paypal-engineering)**
 
+* **[Repl.it Blog](https://blog.replit.com)**
+
 * **[Netflix engineering blog](https://netflixtechblog.com)**
 
 * **[Uber engineering blog](https://eng.uber.com)**
