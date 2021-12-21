@@ -67,6 +67,8 @@
 
 * **[Scalability for Dummies](https://www.lecloud.net/tagged/scalability)**
 
+* **[System Design Interview Questions](https://www.hackingnote.com/en/interview/system-design-interview-questions)**
+
 ## System Design
 * **[System Design Interview](https://github.com/checkcheckzz/system-design-interview)** ***(Very important one)***
 
