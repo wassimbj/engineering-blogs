@@ -55,6 +55,8 @@
 
 * **[Nick Craver Blog](https://nickcraver.com/blog/archive/)**
 
+* **[Tech Differences](https://techdifferences.com)**
+
 ## Articles & Papers
 
 * **[High Performance Browser Networking](https://hpbn.co)**
