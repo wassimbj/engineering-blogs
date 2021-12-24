@@ -57,6 +57,8 @@
 
 * **[Tech Differences](https://techdifferences.com)**
 
+* **[The Tech Terms Computer Dictionary](https://techterms.com)**
+
 ## Articles & Papers
 
 * **[High Performance Browser Networking](https://hpbn.co)**
