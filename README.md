@@ -59,6 +59,8 @@
 
 * **[The Tech Terms Computer Dictionary](https://techterms.com)**
 
+* **[Cloudflare learning center](https://www.cloudflare.com/learning/)** ***(you should check it)***
+
 ## Articles & Papers
 
 * **[High Performance Browser Networking](https://hpbn.co)**
@@ -76,7 +78,7 @@
 * **[System Design Interview Questions](https://www.hackingnote.com/en/interview/system-design-interview-questions)**
 
 ## System Design
-* **[System Design Interview](https://github.com/checkcheckzz/system-design-interview)** ***(Very important one)***
+* **[System Design Interview](https://github.com/checkcheckzz/system-design-interview)** ***(really cool)***
 
 * **[Technical keyswords explained](https://gist.github.com/vasanthk/485d1c25737e8e72759f)** ***(important)***
 
