@@ -94,7 +94,7 @@
 * **[Scaling Databases - Web Development
 ](https://www.youtube.com/watch?v=dkhOZOmV7Fo)** ***(Simple and nice short video)***
 
-* **[Hussein Nasser's backend engineer playlists](https://www.husseinnasser.com/p/software-engineering-videos.html)**
+* **[Hussein Nasser's backend engineer playlists](https://www.husseinnasser.com/p/software-engineering-videos.html)** 📍
 
 * **[Scalability (Harvard Web Development) By David Malan](https://www.youtube.com/watch?v=-W9F__D3oY4&list=PLifX7FLW45Ncn-YnaBPSsVz2HYsW8mfAX)**
 
