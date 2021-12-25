@@ -39,7 +39,7 @@
 
 * **[The Software House (tsh) blog](https://tsh.io/blog/)**
 
-* **[InfoQ: Software Development News, Trends & Best Practices](https://www.infoq.com)**
+* **[InfoQ: Software Development News, Trends & Best Practices](https://www.infoq.com)** 📍
 
 * **[Software engineering daily](https://softwareengineeringdaily.com)**
 
@@ -47,7 +47,7 @@
 
 * **[Learn anything you can imagine](https://www.tutorialspoint.com/tutorialslibrary.htm)**
 
-* **[High Scalability](http://highscalability.com)**
+* **[High Scalability](http://highscalability.com)** 📍
 
 * **[AWS in plain english](https://aws.plainenglish.io)**
 
@@ -78,9 +78,9 @@
 * **[System Design Interview Questions](https://www.hackingnote.com/en/interview/system-design-interview-questions)**
 
 ## System Design
-* **[System Design Interview](https://github.com/checkcheckzz/system-design-interview)** ***(really cool)***
+* **[System Design Interview](https://github.com/checkcheckzz/system-design-interview)** 📍
 
-* **[Technical keyswords explained](https://gist.github.com/vasanthk/485d1c25737e8e72759f)** ***(important)***
+* **[Technical keyswords explained](https://gist.github.com/vasanthk/485d1c25737e8e72759f)** 📍
 
 ## Videos
 
