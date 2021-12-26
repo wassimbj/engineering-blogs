@@ -65,7 +65,7 @@
 
 * **[High Performance Browser Networking](https://hpbn.co)**
 
-* **[Great article about serverless](https://martinfowler.com/articles/serverless.html)**
+* **[Great article about serverless](https://martinfowler.com/articles/serverless.html)** 📍
 
 * **[Papers from the computer science community](https://github.com/papers-we-love/papers-we-love)**
 
@@ -76,6 +76,8 @@
 * **[Scalability for Dummies](https://www.lecloud.net/tagged/scalability)**
 
 * **[System Design Interview Questions](https://www.hackingnote.com/en/interview/system-design-interview-questions)**
+
+* **[How to design a system to scale to your first 100 million users](https://levelup.gitconnected.com/how-to-design-a-system-to-scale-to-your-first-100-million-users-4450a2f9703d)** 📍
 
 ## System Design
 * **[System Design Interview](https://github.com/checkcheckzz/system-design-interview)** 📍
