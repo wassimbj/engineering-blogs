@@ -79,6 +79,8 @@
 
 * **[How to design a system to scale to your first 100 million users](https://levelup.gitconnected.com/how-to-design-a-system-to-scale-to-your-first-100-million-users-4450a2f9703d)** 📍
 
+* **[How to Generate Millions of HTTP Requests](http://dak1n1.com/blog/14-http-load-generate/)** 📍
+
 ## System Design
 * **[System Design Interview](https://github.com/checkcheckzz/system-design-interview)** 📍
 
