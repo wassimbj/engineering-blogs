@@ -111,6 +111,8 @@
 
 * **[XS-Leaks WIKI](https://xsleaks.dev)**
 
+* **[Stanford CS235 Web Security](https://web.stanford.edu/class/cs253/)**
+
 
 ## Cheat-sheets <sub><sup>no body knows eveything, right ?</sup></sub>
 * **[Docker Cheat-sheet](https://dockerlabs.collabnix.com/docker/cheatsheet/)**
