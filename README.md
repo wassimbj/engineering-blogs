@@ -63,6 +63,8 @@
 
 * **[Cloudflare learning center](https://www.cloudflare.com/learning/)** ***(you should check it)***
 
+* **[Dev Notes](https://dev-notes.eu)**
+
 ## Articles & Papers
 
 * **[High Performance Browser Networking](https://hpbn.co)**
