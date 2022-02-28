@@ -85,6 +85,8 @@
 
 * **[How to Generate Millions of HTTP Requests](http://dak1n1.com/blog/14-http-load-generate/)** 📍
 
+* **[What Is a CPU Core? A Basic Definition](https://www.tomshardware.com/news/cpu-core-definition,37658.html)** 📍
+
 ## System Design
 * **[System Design Interview](https://github.com/checkcheckzz/system-design-interview)** 📍
 
