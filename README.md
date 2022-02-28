@@ -87,6 +87,8 @@
 
 * **[What Is a CPU Core? A Basic Definition](https://www.tomshardware.com/news/cpu-core-definition,37658.html)** 📍
 
+* **[Full list of AWS services with short and simple description](https://www.eckher.com/c/21gjdl7gz4)** 📍
+
 ## System Design
 * **[System Design Interview](https://github.com/checkcheckzz/system-design-interview)** 📍
 
