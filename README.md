@@ -59,7 +59,7 @@
 
 * **[Tech Differences](https://techdifferences.com)**
 
-* **[The Tech Terms Computer Dictionary](https://techterms.com)**
+* **[The Tech Terms Computer Dictionary](https://techterms.com)** 📍
 
 * **[Cloudflare learning center](https://www.cloudflare.com/learning/)** ***(you should check it)***
 
