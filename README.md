@@ -89,6 +89,8 @@
 
 * **[Full list of AWS services with short and simple description](https://www.eckher.com/c/21gjdl7gz4)** 📍
 
+* **[Scaling WebSocket in Go and beyond](https://centrifugal.dev/blog/2020/11/12/scaling-websocket)** 📍
+
 ## System Design
 * **[System Design Interview](https://github.com/checkcheckzz/system-design-interview)** 📍
 
