@@ -91,6 +91,8 @@
 
 * **[Scaling WebSocket in Go and beyond](https://centrifugal.dev/blog/2020/11/12/scaling-websocket)** 📍
 
+* **[Understanding Performance Metrics and Network Traffic](https://community.f5.com/t5/technical-articles/understanding-performance-metrics-and-network-traffic/ta-p/286109)**
+
 ## System Design
 * **[System Design Interview](https://github.com/checkcheckzz/system-design-interview)** 📍
 
