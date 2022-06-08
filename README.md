@@ -9,6 +9,8 @@
 
 * **[Airbnb engineering blog](https://medium.com/airbnb-engineering)**
 
+* **[Shopify Engineering Blog](https://shopify.engineering)**
+
 * **[Discord engineering blog](https://blog.discord.com/tagged/engineering)**
 
 * **[Facebook engineering blog](https://engineering.fb.com)**
@@ -64,6 +66,7 @@
 * **[Cloudflare learning center](https://www.cloudflare.com/learning/)** ***(you should check it)***
 
 * **[Dev Notes](https://dev-notes.eu)**
+
 
 ## Articles & Papers
 
