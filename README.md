@@ -17,6 +17,8 @@
 
 * **[Doordash engineering blog](https://doordash.engineering)**
 
+* **[Amazon Prime Tech Blog](https://primevideotech.com)
+
 * **[Instagram engineering blog](https://instagram-engineering.com)**
 
 * **[Coursera engineering blog](https://medium.com/coursera-engineering)**
